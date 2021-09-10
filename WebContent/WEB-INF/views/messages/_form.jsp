@@ -4,7 +4,7 @@
 <br /><br />
 
 
-<lavel for = "content">メッセージ</lavel><br />
+<label for = "content">メッセージ</label><br />
 <input type = "text" name = "content" value = "${message.content }"/>
 <br /><br />
 
